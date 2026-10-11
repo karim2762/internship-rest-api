@@ -1,4 +1,4 @@
-# Internship Board API
+# Internship  API
 
 REST API for internship records built with **Node.js, Express and SQLite (local) / PostgreSQL (Vercel)**.
 It has validation, pagination, filtering, JSON error responses, seed data and tests.
@@ -6,7 +6,7 @@ It has validation, pagination, filtering, JSON error responses, seed data and te
 ## Setup
 
 ```bash
-git clone <your-repo-url> && cd internship-api
+git clone https://github.com/karim2762/internship-rest-api.git && cd internship-api
 npm install --omit=optional
 cp .env.example .env
 npm run seed
