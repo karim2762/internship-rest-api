@@ -1,0 +1,14 @@
+[
+  {"company":"Northwind Labs","title":"Backend Engineering Intern","location":"Berlin, Germany","work_mode":"hybrid","status":"open","stipend_monthly":1400,"deadline":"2026-12-15","description":"Build and test REST services in Node.js with PostgreSQL."},
+  {"company":"Brightpath Health","title":"Data Analyst Intern","location":"Toronto, Canada","work_mode":"remote","status":"open","stipend_monthly":1800,"deadline":"2026-11-30","description":"Clean and visualise patient-flow datasets using SQL and Python."},
+  {"company":"Cobalt Robotics","title":"Embedded Software Intern","location":"Austin, USA","work_mode":"onsite","status":"open","stipend_monthly":2500,"deadline":"2027-01-10","description":"Write firmware tests for warehouse robots."},
+  {"company":"Lumen Studio","title":"UX Research Intern","location":"Lisbon, Portugal","work_mode":"hybrid","status":"open","stipend_monthly":900,"deadline":"2026-12-01","description":"Run usability sessions and synthesise findings."},
+  {"company":"Greenleaf Energy","title":"Sustainability Analyst Intern","location":"Nairobi, Kenya","work_mode":"onsite","status":"closed","stipend_monthly":700,"deadline":"2026-09-01","description":"Model carbon savings for solar installations."},
+  {"company":"Paperplane Media","title":"Content Marketing Intern","location":"Remote","work_mode":"remote","status":"open","stipend_monthly":null,"deadline":"2026-11-20","description":"Draft blog posts and newsletters."},
+  {"company":"Orbit Fintech","title":"Frontend Engineering Intern","location":"Singapore","work_mode":"hybrid","status":"draft","stipend_monthly":2000,"deadline":"2027-02-01","description":"Build accessible React dashboards."},
+  {"company":"Harbor Legal Tech","title":"Product Management Intern","location":"London, UK","work_mode":"hybrid","status":"open","stipend_monthly":1600,"deadline":"2026-12-20","description":"Write specs and prioritise a contract-review backlog."},
+  {"company":"Kite Analytics","title":"Machine Learning Intern","location":"Bengaluru, India","work_mode":"remote","status":"open","stipend_monthly":1100,"deadline":"2027-01-05","description":"Evaluate text classification models."},
+  {"company":"Redwood Games","title":"QA Automation Intern","location":"Montreal, Canada","work_mode":"onsite","status":"closed","stipend_monthly":1300,"deadline":"2026-08-15","description":"Automate regression tests for a multiplayer title."},
+  {"company":"Solstice Foods","title":"Supply Chain Intern","location":"Mexico City, Mexico","work_mode":"onsite","status":"open","stipend_monthly":800,"deadline":"2026-12-10","description":"Track supplier lead times and flag delays."},
+  {"company":"Tidewater Security","title":"Security Engineering Intern","location":"Remote","work_mode":"remote","status":"open","stipend_monthly":2200,"deadline":"2027-01-20","description":"Triage vulnerability reports and write remediation guides."}
+]
